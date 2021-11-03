@@ -702,6 +702,7 @@ Tools to help you build on Cardano:
 - [CNFT Hub](https://cnfthub.io/)
 - [Cardano Cube](https://cardanocube.io/)
 - [Cardano Rust CLI](https://github.com/crc-cardano-stakepool/cardano)
+- [Next CNFT](https://www.nextcnft.com/)
 
 ### 🧑‍🏫 Community Training 🧑‍🏫 ###
 - [Lovelace academy](https://lovelace.academy/)
